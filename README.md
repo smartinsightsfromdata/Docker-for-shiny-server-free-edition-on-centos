@@ -7,7 +7,7 @@ This is a typical dev configuration as it includes in one docker configuration:
 * R
 * RStudio
 * Shiny Server (free edition)
-
+appple
 
 Build with (from the folder containing the Dockerfile):
 ```
